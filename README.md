@@ -30,7 +30,13 @@ dart run contoh/a4_closure.dart   # contoh dari Bagian A
 
 ## Contoh keluaran
 
-Input huruf pada ID dan ID yang tidak ada tidak menghentikan program:
+Judul kosong dan input huruf pada ID tidak menghentikan program:
+
+![Tambah tugas, judul kosong, dan tandai selesai](screenshots/sesi-1.png)
+
+![Input huruf pada ID, lihat daftar, dan keluar](screenshots/sesi-2.png)
+
+Keluaran dari sesi uji yang lebih lengkap, termasuk ID yang tidak ada:
 
 ```
 Pilih menu: ID tugas: Peringatan: "satu" bukan angka.
